@@ -1,0 +1,15 @@
+:root {
+  /* Font families */
+  --ff: 'Libre Franklin', sans-serif;
+
+  /* Font Sizes */
+  --fs-small: 0.75rem;
+  --fs-base: 1rem;
+  --fs-big: 3rem;
+
+  /* Colors */
+  --clr-blue: #4c7bf3;
+  --clr-light-blue: #7196f5;
+  --clr-dark-blue: #15202a;
+  --clr-red: #ff5466;
+}
