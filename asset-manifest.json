@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ping-single-column-coming-soon-page/static/css/main.cd02d708.css",
+    "main.js": "/ping-single-column-coming-soon-page/static/js/main.45ee8ab2.js",
+    "static/media/LibreFranklin-Regular.woff": "/ping-single-column-coming-soon-page/static/media/LibreFranklin-Regular.4d3abdaf4c4c56808934.woff",
+    "static/media/LibreFranklin-SemiBold.woff": "/ping-single-column-coming-soon-page/static/media/LibreFranklin-SemiBold.861f7b134218c871d978.woff",
+    "static/media/LibreFranklin-Light.woff": "/ping-single-column-coming-soon-page/static/media/LibreFranklin-Light.0043c3d6ab6f416238a7.woff",
+    "static/media/LibreFranklin-Bold.woff": "/ping-single-column-coming-soon-page/static/media/LibreFranklin-Bold.48faf7d59b0f337df87c.woff",
+    "static/media/LibreFranklin-Bold.woff2": "/ping-single-column-coming-soon-page/static/media/LibreFranklin-Bold.c189a6228ba81664e81b.woff2",
+    "static/media/LibreFranklin-SemiBold.woff2": "/ping-single-column-coming-soon-page/static/media/LibreFranklin-SemiBold.e9caf3057ec21c27e2a6.woff2",
+    "static/media/LibreFranklin-Regular.woff2": "/ping-single-column-coming-soon-page/static/media/LibreFranklin-Regular.dccdaca52dc88c1fb2fa.woff2",
+    "static/media/illustration-dashboard.png": "/ping-single-column-coming-soon-page/static/media/illustration-dashboard.f9aaf3db81c10cfaff45.png",
+    "static/media/logo.svg": "/ping-single-column-coming-soon-page/static/media/logo.7e09371f05c7e00fddccee34a9deac87.svg",
+    "index.html": "/ping-single-column-coming-soon-page/index.html",
+    "main.cd02d708.css.map": "/ping-single-column-coming-soon-page/static/css/main.cd02d708.css.map",
+    "main.45ee8ab2.js.map": "/ping-single-column-coming-soon-page/static/js/main.45ee8ab2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd02d708.css",
+    "static/js/main.45ee8ab2.js"
+  ]
+}
