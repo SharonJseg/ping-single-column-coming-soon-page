@@ -7,12 +7,7 @@ const Footer = () => {
     <footer className='footer'>
       <ul className='footer__social-media-list'>
         <li>
-          <button
-            href='#'
-            target='_blank'
-            rel='noopener noreferrer'
-            className='social__media_link'
-          >
+          <button aria-label='facebook link' className='social__media_link'>
             <Icon
               name='facebook'
               height='15'
@@ -22,12 +17,7 @@ const Footer = () => {
           </button>
         </li>
         <li>
-          <button
-            href='#'
-            target='_blank'
-            rel='noopener noreferrer'
-            className='social__media_link'
-          >
+          <button aria-label='twitter link' className='social__media_link'>
             <Icon
               name='twitter'
               height='16'
@@ -37,12 +27,7 @@ const Footer = () => {
           </button>
         </li>
         <li>
-          <button
-            href='#'
-            target='_blank'
-            rel='noopener noreferrer'
-            className='social__media_link'
-          >
+          <button aria-label='instagram link' className='social__media_link'>
             <Icon
               name='instagram'
               height='16'
