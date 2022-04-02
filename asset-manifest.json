@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ping-single-column-coming-soon-page/static/css/main.cd02d708.css",
-    "main.js": "/ping-single-column-coming-soon-page/static/js/main.45ee8ab2.js",
+    "main.js": "/ping-single-column-coming-soon-page/static/js/main.9530b659.js",
     "static/media/LibreFranklin-Regular.woff": "/ping-single-column-coming-soon-page/static/media/LibreFranklin-Regular.4d3abdaf4c4c56808934.woff",
     "static/media/LibreFranklin-SemiBold.woff": "/ping-single-column-coming-soon-page/static/media/LibreFranklin-SemiBold.861f7b134218c871d978.woff",
     "static/media/LibreFranklin-Light.woff": "/ping-single-column-coming-soon-page/static/media/LibreFranklin-Light.0043c3d6ab6f416238a7.woff",
@@ -13,10 +13,10 @@
     "static/media/logo.svg": "/ping-single-column-coming-soon-page/static/media/logo.7e09371f05c7e00fddccee34a9deac87.svg",
     "index.html": "/ping-single-column-coming-soon-page/index.html",
     "main.cd02d708.css.map": "/ping-single-column-coming-soon-page/static/css/main.cd02d708.css.map",
-    "main.45ee8ab2.js.map": "/ping-single-column-coming-soon-page/static/js/main.45ee8ab2.js.map"
+    "main.9530b659.js.map": "/ping-single-column-coming-soon-page/static/js/main.9530b659.js.map"
   },
   "entrypoints": [
     "static/css/main.cd02d708.css",
-    "static/js/main.45ee8ab2.js"
+    "static/js/main.9530b659.js"
   ]
 }
